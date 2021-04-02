@@ -21,7 +21,7 @@ jobs:
         uses: docker/login-action@v1
         with:
           registry: ghcr.io
-          username: ${{ github.repository_owner }}
+          username: lichunf@outlook.com
           password: ${{ secrets.GHCR_IO_TOKEN }}
 
       # Runs a single command using the runners shell
