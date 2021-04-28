@@ -7,3 +7,9 @@ kubernetes高可用集群安装（二进制安装、v1.20.2版）  https://www.c
 机智号的 Linux 系统   https://github.com/nasa/fprime
 
 自制火星车的开源资料。  https://github.com/peng-zhihui/MiniRover-Hardware
+
+书籍：
+数学之美
+人工智能一种现代方法
+浪潮之巅
+全球通史
